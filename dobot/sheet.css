@@ -9,5 +9,4 @@ body {
 	background-color: black;
 }
 p{color:white;}
-
-nav{color:gray;}
+a{text-decoration:none;color:gray;}
