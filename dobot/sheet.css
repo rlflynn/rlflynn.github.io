@@ -4,6 +4,7 @@ h2{font-weight:bolder;}
 h3{font-style:italic;}
 h3{font-weight:lighter;}
 h3{color:white;}
+h3{opacity:50;}
 body {
 	padding: 100px;
 	background-color:rgb(26,35,37);
