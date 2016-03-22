@@ -1,15 +1,70 @@
-h1{color:white;}
-h2{color:white;}
-h2{font-weight:bolder;}
-h3{font-style:italic;}
-h3{font-weight:lighter;}
-h3{color:white;}
-h3{opacity:50.10;}
+
+h2{
+	color:white;
+	font-family:QuatroSlab;
+	font-weight:Regular;
+	font-size: 36px;
+}
+
+h3{
+	font-weight:lighter;
+	color:#525758;
+	font-family: sans-serif;
+
+}
+
 body {
 	padding: 100px;
 	background-color:rgb(26,35,37);
 	opacity:75.10;
 }
-p{color:white;}
-a{text-decoration:none;color:gray;}
-h1{text-decoration:none}
+
+.price{
+	text-decoration:none;
+	color:#ffffff;
+	font-family: QuatroSlab;
+	font-size: 24px;
+}
+
+.bodytext{
+	color:#646868;
+	font-family: sans-serif;
+	width:340px;
+
+}
+.link{
+	color:#069fa1;
+	text-decoration: none;
+}
+.buy{
+	background-color:#01bfc1;
+	color:#ffffff;
+	text-transform:uppercase;
+	border:solid 2px #4dd9da;
+	font-family: sans-serif;
+	padding:5px 10px 5px 10px;
+	font-size: 14px;
+	text-decoration: none;
+
+}
+.image{
+	float:right;
+	width:320px;
+}
+section{
+	padding-bottom: 100px;
+	padding-top: 100px;
+	padding-left: 25px
+	width:1360px;
+
+}
+#film{
+	padding-top: 200px;
+}
+
+
+
+
+
+
+
