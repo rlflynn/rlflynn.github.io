@@ -17,6 +17,7 @@ body {
 	padding: 100px;
 	background-color:rgb(26,35,37);
 	opacity:75.10;
+	
 }
 
 .price{
@@ -62,7 +63,10 @@ section{
 	padding-top: 200px;
 }
 
-
+@font-face{
+	src: url(Raleway-Light.ttf);
+	font-family: "Raleway";
+}
 
 
 
